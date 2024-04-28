@@ -1,0 +1,37 @@
+# Dependencies
+__pycache__/
+venv/
+env.py
+
+# IDE and OS specific files
+*.pyc
+*.egg-info/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Text editor temp files
+*.swp
+*.swo
+
+# Drafts and temporary notes
+*.txt~
+
+# Logs and Database files
+*.log
+db.sqlite  # or your specific database file
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Flask specific
+*.py~
+
+# Additional files based on your project
+secret_key.txt  # Or a file containing your secret key
+
+# Testing files
+tests/__init__.py
+tests/test_*.py
