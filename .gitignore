@@ -32,6 +32,8 @@ htmlcov/
 # Additional files based on your project
 secret_key.txt  # Or a file containing your secret key
 
+instance/
+
 # Testing files
 tests/__init__.py
 tests/test_*.py
