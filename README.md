@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ### 5. Executar o programa
 Finalmente, execute o arquivo main.py para iniciar o programa:
 ```sh
-python main.py
+python app.py
 ```
 ### Contribuição
 Para contribuir com este projeto, por favor siga os passos abaixo:
